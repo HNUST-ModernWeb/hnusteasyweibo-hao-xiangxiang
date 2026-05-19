@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\BackendApplication.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\config\CorsConfig.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\config\WebSocketConfig.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\controller\AuthController.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\controller\FileController.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\controller\PostController.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\entity\LoginRequest.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\entity\Post.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\entity\RegisterRequest.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\entity\User.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\mapper\LikeRecordMapper.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\mapper\PostMapper.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\mapper\UserMapper.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\service\PostService.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\service\UserService.java
+C:\Users\Dell\Desktop\backend\src\main\java\com\community\backend\service\WebSocketService.java

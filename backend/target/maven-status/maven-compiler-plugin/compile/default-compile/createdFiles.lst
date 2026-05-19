@@ -1,0 +1,16 @@
+com\community\backend\config\WebSocketConfig.class
+com\community\backend\mapper\UserMapper.class
+com\community\backend\service\WebSocketService.class
+com\community\backend\controller\AuthController.class
+com\community\backend\entity\User.class
+com\community\backend\BackendApplication.class
+com\community\backend\mapper\PostMapper.class
+com\community\backend\controller\PostController.class
+com\community\backend\service\UserService.class
+com\community\backend\controller\FileController.class
+com\community\backend\entity\RegisterRequest.class
+com\community\backend\entity\Post.class
+com\community\backend\mapper\LikeRecordMapper.class
+com\community\backend\config\CorsConfig.class
+com\community\backend\service\PostService.class
+com\community\backend\entity\LoginRequest.class
